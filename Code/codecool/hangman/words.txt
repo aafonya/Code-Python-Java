@@ -1,0 +1,3 @@
+6,turnip,dragon,giggle,puzzle,pyjama,abroad,amount,button,castle,device
+8,alliance,continue,deadline,daylight,envelope,historic,instance,medieval
+10,technology,television,restaurant,discipline,apocalypse,illuminati,earthquake

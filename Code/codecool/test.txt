@@ -1,0 +1,4 @@
+nano test
+
+print(Hello world!)
+

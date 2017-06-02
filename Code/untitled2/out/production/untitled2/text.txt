@@ -1,0 +1,10 @@
+firstLine apple banana lemon pomelo raspberry
+secondline blackberry pea honey
+thirdLine milk bread cheese
+fourthLine orange marmalade jam
+fifthline fish chips soup
+sixthLine ketchup catch up
+seventhLine gattaca aabbaa ccaacc
+eigthLine rice potato
+tenthLine cacao tea coffee
+
